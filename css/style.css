@@ -2,7 +2,7 @@ html {
     box-sizing: border-box;
 }
 
-.header {
+.header__background{
     background: url(../img/background_header.jpg);
     background-position: center;
     background-repeat: no-repeat;
